@@ -55,7 +55,7 @@ class App extends React.Component {
   
   // Get coordinates for face box
   calculateFaceLocation = (info) => {
-    console.log("Info", info)
+    //console.log("Info", info)
     const image = document.getElementById('inputimage');
     const width = Number(image.width);
     const height = Number(image.height);
@@ -73,7 +73,7 @@ class App extends React.Component {
 
   // Draw face box on retrieved coordinates
   displayFaceBox = (boxArr) => {
-    console.log(boxArr);
+    //console.log(boxArr);
     this.setState({boxArr: boxArr});
   }
 
@@ -95,7 +95,7 @@ class App extends React.Component {
     .then(response => response.json())
     .then(response => {
       if (response) {
-        console.log('response', response)
+        //console.log('Response', response)
         fetch('https://fierce-temple-27744.herokuapp.com/image', {
           method: 'put',
           headers: {'Content-Type': 'application/json'},
