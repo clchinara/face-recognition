@@ -103,7 +103,7 @@ class App extends React.Component {
             id: this.state.user.id
           })
         })
-        //.then(response => response.json())
+        .then(response => response.json())
         .then(entryCount => {
           this.setState(Object.assign(this.state.user, { entries: entryCount }));
         })
