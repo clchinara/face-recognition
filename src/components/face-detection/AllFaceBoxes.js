@@ -1,5 +1,4 @@
 import React from 'react'
-//import './FaceDetection.css';
 import FaceBox from './FaceBox'
 
 const AllFaceBoxes = ({ boxArr }) => {
