@@ -1,7 +1,6 @@
 # face-recognition
 
-A web application where registered users can perform face recognition on uploaded pictures: \
-https://clchinara-face-recognition.herokuapp.com 
+A simple [web application](https://clchinara-face-recognition.herokuapp.com) where registered users can perform face recognition on uploaded pictures:  
 
 This repo contains client-side code only. 
 
