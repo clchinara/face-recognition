@@ -13,6 +13,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/login.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/main.jpg">
 <br>
 
+<img width="45%" src="https://s.wsj.net/public/resources/images/BN-VD943_macdon_M_20170918124616.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="45%" src="https://media.gettyimages.com/photos/plastic-surgery-advertising-profile-side-view-portrait-of-redhaired-picture-id1060791046?s=2048x2048">
+<br>
+
 <img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/sample-1.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/sample-2.jpg">
 <br>
 
