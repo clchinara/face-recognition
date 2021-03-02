@@ -6,6 +6,19 @@ This repo contains client-side code only.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+
+<br>
+
+<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/login.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/main.jpg">
+
+<br>
+<br>
+
+<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/sample-1.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="45%" src="https://github.com/clchinara/media-repo/blob/master/face-recognition/sample-2.jpg">
+
+<br>
+
 ## Available Scripts
 
 In the project directory, you can run:
